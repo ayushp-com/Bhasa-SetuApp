@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # sih_vernacular_pedagogy
 
 A new Flutter project.
@@ -34,4 +34,4 @@ Bhasa-Setu is an open-source Flutter mobile application designed to empower teac
 * **Local Storage**: `sqflite` for high-performance offline database management.
 * **Speech & Audio**: `flutter_tts`, `speech_to_text`, and `sherpa_onnx`.
 * **Export Utilities**: `pdf` and `printing`.
->>>>>>> 717cea2cfbcae960c73745968c21d622be2d04ac
+
