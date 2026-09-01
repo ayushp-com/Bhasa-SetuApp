@@ -1,0 +1,401 @@
+[
+  {
+    "english_word": "i",
+    "hindi_word": "मैं",
+    "santhali_word": "ᱤᱧ (Ing)",
+    "mundari_word": "ᱤᱧ (Ing)",
+    "ho_word": "ᱤᱧ (Ing)"
+  },
+  {
+    "english_word": "you",
+    "hindi_word": "तुम",
+    "santhali_word": "ᱟᱢ (Aam)",
+    "mundari_word": "ᱟᱢ (Aam)",
+    "ho_word": "ᱟᱢ (Aam)"
+  },
+  {
+    "english_word": "he",
+    "hindi_word": "वह",
+    "santhali_word": "ᱩᱱᱤ (Uni)",
+    "mundari_word": "ᱩᱱᱤ (Uni)",
+    "ho_word": "ᱩᱱᱤ (Uni)"
+  },
+  {
+    "english_word": "she",
+    "hindi_word": "वह",
+    "santhali_word": "ᱩᱱᱤ (Uni)",
+    "mundari_word": "ᱩᱱᱤ (Uni)",
+    "ho_word": "ᱩᱱᱤ (Uni)"
+  },
+  {
+    "english_word": "we",
+    "hindi_word": "हम",
+    "santhali_word": "ᱞᱮ/ᱟᱞᱮ (Ale)",
+    "mundari_word": "ᱞᱮ/ᱟᱞᱮ (Ale)",
+    "ho_word": "ᱞᱮ/ᱟᱞᱮ (Ale)"
+  },
+  {
+    "english_word": "they",
+    "hindi_word": "वे",
+    "santhali_word": "ᱠᱚ (Ko)",
+    "mundari_word": "ᱠᱚ (Ko)",
+    "ho_word": "ᱠᱚ (Ko)"
+  },
+  {
+    "english_word": "this",
+    "hindi_word": "यह",
+    "santhali_word": "ᱱᱚᱶᱟ (Nowa)",
+    "mundari_word": "ᱱᱚᱶᱟ (Nowa)",
+    "ho_word": "ᱱᱚᱶᱟ (Nowa)"
+  },
+  {
+    "english_word": "that",
+    "hindi_word": "वह",
+    "santhali_word": "ᱚᱱᱟ (Ona)",
+    "mundari_word": "ᱚᱱᱟ (Ona)",
+    "ho_word": "ᱚᱱᱟ (Ona)"
+  },
+  {
+    "english_word": "book",
+    "hindi_word": "किताब",
+    "santhali_word": "ᱯᱚᱛᱚᱵ (Potob)",
+    "mundari_word": "ᱯᱚᱛᱚᱵ (Potob)",
+    "ho_word": "ᱯᱚᱛᱚᱵ (Potob)"
+  },
+  {
+    "english_word": "school",
+    "hindi_word": "स्कूल",
+    "santhali_word": "ᱤᱥᱠᱩᱞ (Iskul)",
+    "mundari_word": "ᱤᱥᱠᱩᱞ (Iskul)",
+    "ho_word": "ᱤᱥᱠᱩᱞ (Iskul)"
+  },
+  {
+    "english_word": "pen",
+    "hindi_word": "कलम",
+    "santhali_word": "ᱠᱚᱞᱚᱢ (Kolom)",
+    "mundari_word": "ᱠᱚᱞᱚᱢ (Kolom)",
+    "ho_word": "ᱠᱚᱞᱚᱢ (Kolom)"
+  },
+  {
+    "english_word": "paper",
+    "hindi_word": "कागज",
+    "santhali_word": "ᱠᱟᱜᱚᱡ (Kagoj)",
+    "mundari_word": "ᱠᱟᱜᱚᱡ (Kagoj)",
+    "ho_word": "ᱠᱟᱜᱚᱡ (Kagoj)"
+  },
+  {
+    "english_word": "read",
+    "hindi_word": "पढ़ना",
+    "santhali_word": "ᱯᱟᱲᱦᱟᱣ (Parhao)",
+    "mundari_word": "ᱯᱟᱲᱦᱟᱣ (Parhao)",
+    "ho_word": "ᱯᱟᱲᱦᱟᱣ (Parhao)"
+  },
+  {
+    "english_word": "write",
+    "hindi_word": "लिखना",
+    "santhali_word": "ᱚᱞ (Ol)",
+    "mundari_word": "ᱚᱞ (Ol)",
+    "ho_word": "ᱚᱞ (Ol)"
+  },
+  {
+    "english_word": "teacher",
+    "hindi_word": "शिक्षक",
+    "santhali_word": "ᱪᱮᱪᱮᱫᱤᱭᱟᱹ (Chechediya)",
+    "mundari_word": "ᱪᱮᱪᱮᱫᱤᱭᱟᱹ (Chechediya)",
+    "ho_word": "ᱪᱮᱪᱮᱫᱤᱭᱟᱹ (Chechediya)"
+  },
+  {
+    "english_word": "student",
+    "hindi_word": "छात्र",
+    "santhali_word": "ᱪᱟᱹᱴᱤᱭᱟᱹ (Chatiya)",
+    "mundari_word": "ᱪᱟᱹᱴᱤᱭᱟᱹ (Chatiya)",
+    "ho_word": "ᱪᱟᱹᱴᱤᱭᱟᱹ (Chatiya)"
+  },
+  {
+    "english_word": "class",
+    "hindi_word": "कक्षा",
+    "santhali_word": "ᱪᱟᱸᱫᱚ (Class)",
+    "mundari_word": "ᱪᱟᱸᱫᱚ (Class)",
+    "ho_word": "ᱪᱟᱸᱫᱚ (Class)"
+  },
+  {
+    "english_word": "learning",
+    "hindi_word": "सीखना",
+    "santhali_word": "ᱪᱮᱫ (Ched)",
+    "mundari_word": "ᱪᱮᱫ (Ched)",
+    "ho_word": "ᱪᱮᱫ (Ched)"
+  },
+  {
+    "english_word": "look",
+    "hindi_word": "देखना",
+    "santhali_word": "ᱧᱮᱞ (Nyel)",
+    "mundari_word": "ᱧᱮᱞ (Nyel)",
+    "ho_word": "ᱧᱮᱞ (Nyel)"
+  },
+  {
+    "english_word": "eat",
+    "hindi_word": "खाना",
+    "santhali_word": "ᱡᱚᱢ (Jom)",
+    "mundari_word": "ᱡᱚᱢ (Jom)",
+    "ho_word": "ᱡᱚᱢ (Jom)"
+  },
+  {
+    "english_word": "drink",
+    "hindi_word": "पीना",
+    "santhali_word": "ᱧᱩ (Nyu)",
+    "mundari_word": "ᱧᱩ (Nyu)",
+    "ho_word": "ᱧᱩ (Nyu)"
+  },
+  {
+    "english_word": "sleep",
+    "hindi_word": "सोना",
+    "santhali_word": "ᱜᱤᱛᱤᱡ (Gitij)",
+    "mundari_word": "ᱜᱤᱛᱤᱡ (Gitij)",
+    "ho_word": "ᱜᱤᱛᱤᱡ (Gitij)"
+  },
+  {
+    "english_word": "walk",
+    "hindi_word": "चलना",
+    "santhali_word": "ᱨᱟᱲᱟ (Rara)",
+    "mundari_word": "ᱨᱟᱲᱟ (Rara)",
+    "ho_word": "ᱨᱟᱲᱟ (Rara)"
+  },
+  {
+    "english_word": "run",
+    "hindi_word": "दौड़ना",
+    "santhali_word": "ပြေး (Pye)",
+    "mundari_word": "ပြေး (Pye)",
+    "ho_word": "ပြေး (Pye)"
+  },
+  {
+    "english_word": "come",
+    "hindi_word": "आना",
+    "santhali_word": "ᱦᱮᱡ (Hej)",
+    "mundari_word": "ᱦᱮᱡ (Hej)",
+    "ho_word": "ᱦᱮᱡ (Hej)"
+  },
+  {
+    "english_word": "go",
+    "hindi_word": "जाना",
+    "santhali_word": "ᱥᱮᱱ (Sen)",
+    "mundari_word": "ᱥᱮᱱ (Sen)",
+    "ho_word": "ᱥᱮᱱ (Sen)"
+  },
+  {
+    "english_word": "sit",
+    "hindi_word": "बैठना",
+    "santhali_word": "ᱫᱩᱰᱩᱲ (Duruq)",
+    "mundari_word": "ᱫᱩᱰᱩᱲ (Duruq)",
+    "ho_word": "ᱫᱩᱰᱩᱲ (Duruq)"
+  },
+  {
+    "english_word": "stand",
+    "hindi_word": "खड़े होना",
+    "santhali_word": "ᱛᱮᱸᱜᱩ (Tengu)",
+    "mundari_word": "ᱛᱮᱸᱜᱩ (Tengu)",
+    "ho_word": "ᱛᱮᱸᱜᱩ (Tengu)"
+  },
+  {
+    "english_word": "speak",
+    "hindi_word": "बोलना",
+    "santhali_word": "ᱨᱚᱲ (Ror)",
+    "mundari_word": "ᱨᱚᱲ (Ror)",
+    "ho_word": "ᱨᱚᱲ (Ror)"
+  },
+  {
+    "english_word": "laugh",
+    "hindi_word": "हंसना",
+    "santhali_word": "ᱨᱟᱭ (Ray)",
+    "mundari_word": "ᱨᱟᱭ (Ray)",
+    "ho_word": "ᱨᱟᱭ (Ray)"
+  },
+  {
+    "english_word": "cry",
+    "hindi_word": "रोना",
+    "santhali_word": "ᱨᱟᱜ (Rag)",
+    "mundari_word": "ᱨᱟᱜ (Rag)",
+    "ho_word": "ᱨᱟᱜ (Rag)"
+  },
+  {
+    "english_word": "water",
+    "hindi_word": "पानी",
+    "santhali_word": "ᱫᱟᱜ (Daag)",
+    "mundari_word": "ᱫᱟᱜ (Daag)",
+    "ho_word": "ᱫᱟᱜ (Daag)"
+  },
+  {
+    "english_word": "tree",
+    "hindi_word": "पेड़",
+    "santhali_word": "ᱫᱟᱨᱮ (Dare)",
+    "mundari_word": "ᱫᱟᱨᱮ (Dare)",
+    "ho_word": "ᱫᱟᱨᱮ (Dare)"
+  },
+  {
+    "english_word": "sun",
+    "hindi_word": "सूरज",
+    "santhali_word": "ᱥᱤᱸᱜᱤ (Singi)",
+    "mundari_word": "ᱥᱤᱸᱜᱤ (Singi)",
+    "ho_word": "ᱥᱤᱸᱜᱤ (Singi)"
+  },
+  {
+    "english_word": "moon",
+    "hindi_word": "चांद",
+    "santhali_word": "ᱪᱟᱸᱫᱚ (Chando)",
+    "mundari_word": "ᱪᱟᱸᱫᱚ (Chando)",
+    "ho_word": "ᱪᱟᱸᱫᱚ (Chando)"
+  },
+  {
+    "english_word": "sky",
+    "hindi_word": "आकाश",
+    "santhali_word": "ᱥᱮᱨᱢᱟ (Serma)",
+    "mundari_word": "ᱥᱮᱨᱢᱟ (Serma)",
+    "ho_word": "ᱥᱮᱨᱢᱟ (Serma)"
+  },
+  {
+    "english_word": "earth",
+    "hindi_word": "जमीन",
+    "santhali_word": "ᱫᱷᱟᱹᱨᱛᱤ (Dharti)",
+    "mundari_word": "ᱫᱷᱟᱹᱨᱛᱤ (Dharti)",
+    "ho_word": "ᱫᱷᱟᱹᱨᱛᱤ (Dharti)"
+  },
+  {
+    "english_word": "fire",
+    "hindi_word": "आग",
+    "santhali_word": "ᱥᱮᱛᱟ (Seta)",
+    "mundari_word": "ᱥᱮᱛᱟ (Seta)",
+    "ho_word": "ᱥᱮᱛᱟ (Seta)"
+  },
+  {
+    "english_word": "flower",
+    "hindi_word": "फूल",
+    "santhali_word": "ᱵᱟᱦᱟ (Baha)",
+    "mundari_word": "ᱵᱟᱦᱟ (Baha)",
+    "ho_word": "ᱵᱟᱦᱟ (Baha)"
+  },
+  {
+    "english_word": "wind",
+    "hindi_word": "हवा",
+    "santhali_word": "ᱨᱟᱭᱚᱜ (Rayog)",
+    "mundari_word": "ᱨᱟᱭᱚᱜ (Rayog)",
+    "ho_word": "ᱨᱟᱭᱚᱜ (Rayog)"
+  },
+  {
+    "english_word": "fish",
+    "hindi_word": "मछली",
+    "santhali_word": "ᱦᱟᱠᱩ (Haku)",
+    "mundari_word": "ᱦᱟᱠᱩ (Haku)",
+    "ho_word": "ᱦᱟᱠᱩ (Haku)"
+  },
+  {
+    "english_word": "father",
+    "hindi_word": "पिता",
+    "santhali_word": "ᱵᱟᱵᱟ (Baba)",
+    "mundari_word": "ᱵᱟᱵᱟ (Baba)",
+    "ho_word": "ᱵᱟᱵᱟ (Baba)"
+  },
+  {
+    "english_word": "mother",
+    "hindi_word": "माता",
+    "santhali_word": "ᱟᱭᱳ (Ayo)",
+    "mundari_word": "ᱟᱭᱳ (Ayo)",
+    "ho_word": "ᱟᱭᱳ (Ayo)"
+  },
+  {
+    "english_word": "brother",
+    "hindi_word": "भाई",
+    "santhali_word": "ᱠᱚᱲᱟ (Kora)",
+    "mundari_word": "ᱠᱚᱲᱟ (Kora)",
+    "ho_word": "ᱠᱚᱲᱟ (Kora)"
+  },
+  {
+    "english_word": "sister",
+    "hindi_word": "बहन",
+    "santhali_word": "ᱠᱩᱲᱤ (Kuri)",
+    "mundari_word": "ᱠᱩᱲᱤ (Kuri)",
+    "ho_word": "ᱠᱩᱲᱤ (Kuri)"
+  },
+  {
+    "english_word": "friend",
+    "hindi_word": "दोस्त",
+    "santhali_word": "ᱜᱟᱛᱮ (Gate)",
+    "mundari_word": "ᱜᱟᱛᱮ (Gate)",
+    "ho_word": "ᱜᱟᱛᱮ (Gate)"
+  },
+  {
+    "english_word": "child",
+    "hindi_word": "बच्चा",
+    "santhali_word": "ᱜᱤᱫᱽᱨᱟᱹ (Gidra)",
+    "mundari_word": "ᱜᱤᱫᱽᱨᱟᱹ (Gidra)",
+    "ho_word": "ᱜᱤᱫᱽᱨᱟᱹ (Gidra)"
+  },
+  {
+    "english_word": "one",
+    "hindi_word": "एक",
+    "santhali_word": "ᱢᱤᱫ (Mit)",
+    "mundari_word": "ᱢᱤᱫ (Mit)",
+    "ho_word": "ᱢᱤᱫ (Mit)"
+  },
+  {
+    "english_word": "two",
+    "hindi_word": "दो",
+    "santhali_word": "ᱵᱟᱨ (Bar)",
+    "mundari_word": "ᱵᱟᱨ (Bar)",
+    "ho_word": "ᱵᱟᱨ (Bar)"
+  },
+  {
+    "english_word": "three",
+    "hindi_word": "तीन",
+    "santhali_word": "ᱯᱤᱭᱟ (Peya)",
+    "mundari_word": "ᱯᱤᱭᱟ (Peya)",
+    "ho_word": "ᱯᱤᱭᱟ (Peya)"
+  },
+  {
+    "english_word": "four",
+    "hindi_word": "चार",
+    "santhali_word": "ᱯួន (Pus)",
+    "mundari_word": "ᱯួន (Pus)",
+    "ho_word": "ᱯួន (Pus)"
+  },
+  {
+    "english_word": "five",
+    "hindi_word": "पाँच",
+    "santhali_word": "ᱢᱚᱬᱮ (Mone)",
+    "mundari_word": "ᱢᱚᱬᱮ (Mone)",
+    "ho_word": "ᱢᱚᱬᱮ (Mone)"
+  },
+  {
+    "english_word": "six",
+    "hindi_word": "छह",
+    "santhali_word": "ᱛᱩᱨᱩᱭ (Turui)",
+    "mundari_word": "ᱛᱩᱨᱩᱭ (Turui)",
+    "ho_word": "ᱛᱩᱨᱩᱭ (Turui)"
+  },
+  {
+    "english_word": "seven",
+    "hindi_word": "सात",
+    "santhali_word": "ᱮᱭᱟᱭ (Eya)",
+    "mundari_word": "ᱮᱭᱟᱭ (Eya)",
+    "ho_word": "ᱮᱭᱟᱭ (Eya)"
+  },
+  {
+    "english_word": "eight",
+    "hindi_word": "आठ",
+    "santhali_word": "ᱤᱨᱟᱹᱞ (Iril)",
+    "mundari_word": "ᱤᱨᱟᱹᱞ (Iril)",
+    "ho_word": "ᱤᱨᱟᱹᱞ (Iril)"
+  },
+  {
+    "english_word": "nine",
+    "hindi_word": "नौ",
+    "santhali_word": "ᱟᱨᱮ (Are)",
+    "mundari_word": "ᱟᱨᱮ (Are)",
+    "ho_word": "ᱟᱨᱮ (Are)"
+  },
+  {
+    "english_word": "ten",
+    "hindi_word": "दस",
+    "santhali_word": "ᱜᱮᱞ (Gel)",
+    "mundari_word": "ᱜᱮᱞ (Gel)",
+    "ho_word": "ᱜᱮᱞ (Gel)"
+  }
+]
